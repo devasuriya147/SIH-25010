@@ -70,10 +70,10 @@ Agriculture, FoodTech & Rural Development
 
 
 ## OUTPUT
+<img width="776" height="277" alt="Screenshot 2025-09-23 175625" src="https://github.com/user-attachments/assets/09704655-77c3-44b4-91db-6e767cdcd0fb" />
+<img width="1046" height="394" alt="Screenshot 2025-09-23 175541" src="https://github.com/user-attachments/assets/e5e91d90-26d4-4863-ba78-9800430d5500" />
 
-img width="776" height="277" alt="Screenshot 2025-09-21 17:52:11" src="https://github.com/user-attachments/assets/your-image-id.png"/>
 
-[Screenshot 2025-09-21 17:52:11](https://github.com/user-attachments/assets/your-image-id.png)
 
 
      
