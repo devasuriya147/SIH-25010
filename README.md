@@ -41,11 +41,16 @@ Government of Punjab
 Agriculture, FoodTech & Rural Development
 
 ## Proposed Solution
-<h3>Remove These Lines</h3>
-<ul><li>Detailed explanation of the proposed solution</li>
-<li>How it addresses the problem</li>
-<li>Innovation and uniqueness of the solution</li></ul>
-
+<h2>Proposed Solution</h2>
+    <p>A mobile-first, multilingual advisory platform that provides real-time, location-specific recommendations for small and marginal farmers. Key features include:</p>
+    <ul>
+      <li>AI-based pest and disease detection using image uploads.</li>
+      <li>Soil health and fertilizer guidance tailored to local conditions.</li>
+      <li>Weather-based alerts and predictive insights for crop management.</li>
+      <li>Market price tracking to aid crop selling decisions.</li>
+      <li>Voice support for low-literate users.</li>
+      <li>Feedback collection to improve recommendations over time.</li>
+    </ul>
 ## Technical Approach
 <h3>Remove These Lines</h3>
 <ul><li>Technologies to be used (e.g. programming languages, frameworks, hardware)
@@ -66,3 +71,12 @@ Agriculture, FoodTech & Rural Development
 ## Research and References
 <h3>Remove These Lines</h3>
 <ul><li>Details / Links of the reference and research work</li></ul>
+
+
+
+## OUTPUT
+     
+     ![alt text](<Screenshot 2025-09-23 175625-1.png>) ![alt text](<Screenshot 2025-09-23 175541-1.png>)
+      
+
+      ![alt text](<Screenshot 2025-09-23 175541-2.png>)
